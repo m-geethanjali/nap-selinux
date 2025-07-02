@@ -15,6 +15,7 @@ This repository contains:
 - Example AVC denial resolutions
 
 ##  Structure
+<pre>
 .
 ├── nap4/
 │   ├── selinux_policy/
@@ -27,6 +28,7 @@ This repository contains:
 │   ├── README.md
 │   └── troubleshooting.md
 └── README.md
+</pre>
 
 ## Requirements
 
