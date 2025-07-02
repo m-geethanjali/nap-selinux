@@ -100,7 +100,7 @@ Ensure the following files are present under /selinux_policy  directory before r
 Execute the installation script with root privileges:
 
 ```bash
-sudo cd nap4-selinux
+sudo cd nap-selinux/nap4-selinux
 
 sudo ./selinux_policy/build_install_policy.sh
 ```
