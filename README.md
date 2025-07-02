@@ -17,12 +17,12 @@ This repository contains:
 ##  Structure
 <pre>
 .
-├── nap4/
+├── nap4-selinux/
 │   ├── selinux_policy/
 │   ├── test_scripts/
 │   ├── README.md
 │   └── troubleshooting.md
-├── nap5/
+├── nap5-selinux/
 │   ├── selinux_policy/
 │   ├── test_scripts/
 │   ├── README.md
