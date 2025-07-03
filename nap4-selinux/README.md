@@ -6,7 +6,7 @@ This project provides tools and documentation for integrating NGINX App Protect 
 
 NGINX App Protect WAF (Web Application Firewall) integration with SELinux provides an additional layer of security by implementing mandatory access controls. This repository contains SELinux policies, installation scripts, and testing utilities designed for NGINX App Protect deployments.
 
-> **⚠️ Important**: This test suite requires a **system that supports systemd** (such as a VM or physical server) and **cannot be run on standard Docker containers**. The test scripts use `systemctl` commands and require full systemd service management capabilities that are not available in typical Docker environments.
+> **⚠️ Important**: This guide uses a **system that supports systemd** (such as a VM or physical server) and **cannot be run on standard Docker containers or kubernetes deployments**. The test scripts use `systemctl` commands and require full systemd service management capabilities that are not available in typical Docker environments.
 
 ## Prerequisites
 
